@@ -498,4 +498,4 @@ process.on('unhandledRejection', (err) => {
   console.error('Unhandled Rejection:', err);
 });
 // Export store for use in commands
-module.exports = { store }; console.log("Bot is starting...");
+
